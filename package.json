@@ -1,0 +1,29 @@
+{
+  "name": "search-strings-in-files",
+  "version": "1.0.0",
+  "description": "Search multiple strings in multiple files",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pahar0/search-strings-in-files.git"
+  },
+  "keywords": [
+    "find",
+    "search",
+    "strings",
+    "multiple",
+    "files"
+  ],
+  "author": "pahar0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pahar0/search-strings-in-files/issues"
+  },
+  "homepage": "https://github.com/pahar0/search-strings-in-files#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
